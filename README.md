@@ -2,7 +2,7 @@
 Practicing LeetCode Problems
 
 ## 🔸 Day 1
-
+ `Math` `Strings` `Data Structures` <br>
 1. [Palindrom Number](1.First_10_Days/Day_1/Palindrom_Number.cpp) <br>
 2. [Longest Common Prefix](1.First_10_Days/Day_1/Longest_Common_Prefix.cpp) <br>
 3. [Two Sum](1.First_10_Days/Day_1/Two_Sum.cpp) <br>
