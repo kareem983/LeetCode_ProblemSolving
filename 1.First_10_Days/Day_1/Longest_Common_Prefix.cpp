@@ -4,7 +4,6 @@ Problem Link: https://leetcode.com/problems/longest-common-prefix/
 */
 
 
-#include <vector>
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
