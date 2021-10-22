@@ -10,7 +10,7 @@ Practicing LeetCode Problems
 5. [Plus One](1.First_10_Days/Day_1/Plus_One.cpp) <br>
 
 ## 🔸 Day 2
- `Math` `Strings` `Linked List` `Data Structures` <br>
+ `Math` `Strings` `Linked List` `Iterators` `Data Structures` <br>
 1. [Merge Two Sorted Lists](1.First_10_Days/Day_2/Merge_Two_Sorted_Lists.cpp) <br>
 2. [Remove Element](1.First_10_Days/Day_2/Remove_Element.cpp) <br>
 3. [Remove Duplicates from Sorted Array](1.First_10_Days/Day_2/Remove_Duplicates_from_Sorted_Array.cpp) <br>
