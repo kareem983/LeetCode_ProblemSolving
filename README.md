@@ -10,3 +10,4 @@ Practicing LeetCode Problems
 5. [Plus One](1.First_10_Days/Day_1/Plus_One.cpp) <br>
 
 ## 🔸 Day 2
+ `Math` `Strings` `Linked List` `Data Structures` <br>
