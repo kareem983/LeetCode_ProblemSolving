@@ -9,3 +9,4 @@ Practicing LeetCode Problems
 4. [Valid Parentheses](1.First_10_Days/Day_1/Valid_Parentheses.cpp) <br>
 5. [Plus One](1.First_10_Days/Day_1/Plus_One.cpp) <br>
 
+## 🔸 Day 2
