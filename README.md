@@ -15,4 +15,5 @@ Practicing LeetCode Problems
 2. [Remove Element](1.First_10_Days/Day_2/Remove_Element.cpp) <br>
 3. [Remove Duplicates from Sorted Array](1.First_10_Days/Day_2/Remove_Duplicates_from_Sorted_Array.cpp) <br>
 4. [Length of Last Word](1.First_10_Days/Day_2/Length_of_Last_Word.cpp) <br>
+5. [Implement StrStr](1.First_10_Days/Day_2/Implement_StrStr.cpp) <br>
 
