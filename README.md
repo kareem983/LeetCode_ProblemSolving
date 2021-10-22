@@ -11,3 +11,4 @@ Practicing LeetCode Problems
 
 ## 🔸 Day 2
  `Math` `Strings` `Linked List` `Data Structures` <br>
+1. [Merge Two Sorted Lists](1.First_10_Days/Day_2/Merge_Two_Sorted_Lists.cpp) <br>
