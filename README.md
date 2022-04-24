@@ -17,3 +17,9 @@ Practicing LeetCode Problems
 4. [Length of Last Word](1.First_10_Days/Day_2/Length_of_Last_Word.cpp) <br>
 5. [Implement StrStr](1.First_10_Days/Day_2/Implement_StrStr.cpp) <br>
 
+
+## 🔸 Day 2
+ `Linked List` `Pointers` <br>
+1. [Remove Nth Node From End of List](1.First_10_Days/Day_3/Remove_Nth_Node_From_End_of_List.cpp) <br>
+
+
