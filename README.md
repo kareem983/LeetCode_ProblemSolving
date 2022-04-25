@@ -19,7 +19,8 @@ Practicing LeetCode Problems
 
 
 ## 🔸 Day 3
- `Linked List` `Pointers` <br>
+ `Linked List` `Pointers` `Data Structures` <br>
 1. [Remove Nth Node From End of List](1.First_10_Days/Day_3/Remove_Nth_Node_From_End_of_List.cpp) <br>
-
+2. [Best Time to Buy and Sell Stock](1.First_10_Days/Day_3/Best_Time_to_Buy_and_Sell_Stock.cpp) <br>
+3. [Contains Duplicate](1.First_10_Days/Day_3/Contains_Duplicate.cpp) <br>
 
