@@ -24,4 +24,5 @@ Practicing LeetCode Problems
 2. [Best Time to Buy and Sell Stock](1.First_10_Days/Day_3/Best_Time_to_Buy_and_Sell_Stock.cpp) <br>
 3. [Contains Duplicate](1.First_10_Days/Day_3/Contains_Duplicate.cpp) <br>
 4. [Maximum Subarray](1.First_10_Days/Day_3/Maximum_Subarray.cpp) <br>
+5. [3Sum](1.First_10_Days/Day_3/3Sum.cpp) <br>
 
