@@ -26,3 +26,7 @@ Practicing LeetCode Problems
 4. [Maximum Subarray](1.First_10_Days/Day_3/Maximum_Subarray.cpp) <br>
 5. [3Sum](1.First_10_Days/Day_3/3Sum.cpp) <br>
 
+## 🔸 Day 4
+ `Linked List` <br>
+1. [Reverse Linked List](1.First_10_Days/Day_4/Reverse_Linked_List.cpp) <br>
+
