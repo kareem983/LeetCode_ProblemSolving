@@ -29,4 +29,5 @@ Practicing LeetCode Problems
 ## 🔸 Day 4
  `Linked List` <br>
 1. [Reverse Linked List](1.First_10_Days/Day_4/Reverse_Linked_List.cpp) <br>
+2. [Reorder List](1.First_10_Days/Day_4/Reorder_List.cpp) <br>
 
