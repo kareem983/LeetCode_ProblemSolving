@@ -30,4 +30,5 @@ Practicing LeetCode Problems
  `Linked List` <br>
 1. [Reverse Linked List](1.First_10_Days/Day_4/Reverse_Linked_List.cpp) <br>
 2. [Reorder List](1.First_10_Days/Day_4/Reorder_List.cpp) <br>
+3. [Set Matrix Zeroes](1.First_10_Days/Day_4/Set_Matrix_Zeroes.cpp) <br>
 
