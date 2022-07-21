@@ -27,8 +27,9 @@ Practicing LeetCode Problems
 5. [3Sum](1.First_10_Days/Day_3/3Sum.cpp) <br>
 
 ## 🔸 Day 4
- `Linked List` <br>
+ `Linked List` `Array` <br>
 1. [Reverse Linked List](1.First_10_Days/Day_4/Reverse_Linked_List.cpp) <br>
 2. [Reorder List](1.First_10_Days/Day_4/Reorder_List.cpp) <br>
 3. [Set Matrix Zeroes](1.First_10_Days/Day_4/Set_Matrix_Zeroes.cpp) <br>
+4. [Product of Array Except Self](1.First_10_Days/Day_4/Product_of_Array_Except_Self.cpp) <br>
 
