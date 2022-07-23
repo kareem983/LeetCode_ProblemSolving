@@ -36,6 +36,6 @@ Practicing LeetCode Problems
 
 
 ## 🔸 Day 5
- `Array` <br>
+ `Binary` <br>
 1. [Sum of Two Integers](1.First_10_Days/Day_5/Sum_of_Two_Integers.cpp) <br>
 
