@@ -40,5 +40,6 @@ Practicing LeetCode Problems
 1. [Sum of Two Integers](1.First_10_Days/Day_5/Sum_of_Two_Integers.cpp) <br>
 2. [Container With Most Water](1.First_10_Days/Day_5/Container_With_Most_Water.cpp) <br>
 3. [Mirror Reflection](1.First_10_Days/Day_5/Mirror_Reflection.cpp) <br>
+4. [Search Insert Position](1.First_10_Days/Day_5/Search_Insert_Position.cpp) <br>
 
 
