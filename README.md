@@ -36,7 +36,7 @@ Practicing LeetCode Problems
 
 
 ## 🔸 Day 5
- `Binary` `Math` `Geometry` Array` `Pointers`  <br>
+ `Binary` `Math` `Geometry` `Array` `Pointers`  <br>
 1. [Sum of Two Integers](1.First_10_Days/Day_5/Sum_of_Two_Integers.cpp) <br>
 2. [Container With Most Water](1.First_10_Days/Day_5/Container_With_Most_Water.cpp) <br>
 3. [Mirror Reflection](1.First_10_Days/Day_5/Mirror_Reflection.cpp) <br>
