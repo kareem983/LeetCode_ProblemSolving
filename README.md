@@ -42,4 +42,11 @@ Practicing LeetCode Problems
 3. [Mirror Reflection](1.First_10_Days/Day_5/Mirror_Reflection.cpp) <br>
 4. [Search Insert Position](1.First_10_Days/Day_5/Search_Insert_Position.cpp) <br>
 5. [Integer to Roman](1.First_10_Days/Day_5/Integer_to_Roman.cpp) <br>
+<br>
+
+
+## 🔸 Day 6
+ `Array` `Strings` `Maps` <br>
+1. [Group Anagrams](1.First_10_Days/Day_6/Group_Anagrams.cpp) <br>
+
 
