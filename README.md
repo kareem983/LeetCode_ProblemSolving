@@ -48,5 +48,7 @@ Practicing LeetCode Problems
 ## 🔸 Day 6
  `Array` `Strings` `Maps` <br>
 1. [Group Anagrams](1.First_10_Days/Day_6/Group_Anagrams.cpp) <br>
+2. [Permutations](1.First_10_Days/Day_6/Permutations.cpp) <br>
+
 
 
