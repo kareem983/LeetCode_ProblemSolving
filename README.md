@@ -46,9 +46,9 @@ Practicing LeetCode Problems
 
 
 ## 🔸 Day 6
- `Array` `Strings` `Maps` <br>
+ `Linked List` `Backtracking` `Array` `Strings` `Maps` <br>
 1. [Group Anagrams](1.First_10_Days/Day_6/Group_Anagrams.cpp) <br>
 2. [Permutations](1.First_10_Days/Day_6/Permutations.cpp) <br>
-
+3. [Swap Nodes in Pairs](1.First_10_Days/Day_6/Swap_Nodes_in_Pairs.cpp) <br>
 
 
