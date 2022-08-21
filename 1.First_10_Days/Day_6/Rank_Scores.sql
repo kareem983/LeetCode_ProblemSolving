@@ -1,3 +1,9 @@
+/*
+Problem Title: Rank Scores
+Problem Link: https://leetcode.com/problems/rank-scores/
+*/
+
+
 # Write your MySQL query statement below
 
 SELECT score,
