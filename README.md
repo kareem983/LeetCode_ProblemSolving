@@ -51,5 +51,6 @@ Practicing LeetCode Problems
 2. [Permutations](1.First_10_Days/Day_6/Permutations.cpp) <br>
 3. [Swap Nodes in Pairs](1.First_10_Days/Day_6/Swap_Nodes_in_Pairs.cpp) <br>
 4. [Combine Two Tables](1.First_10_Days/Day_6/Combine_Two_Tables.sql) <br>
+5. [Rank Scores](1.First_10_Days/Day_6/Rank_Scores.sql) <br>
 
 
