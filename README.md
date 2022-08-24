@@ -53,4 +53,8 @@ Practicing LeetCode Problems
 4. [Combine Two Tables](1.First_10_Days/Day_6/Combine_Two_Tables.sql) <br>
 5. [Rank Scores](1.First_10_Days/Day_6/Rank_Scores.sql) <br>
 
+## 🔸 Day 7
+ `MySQL Database` <br>
+1. [Duplicate Emails](1.First_10_Days/Day_7/Duplicate_Emails.sql) <br>
+
 
