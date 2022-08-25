@@ -56,5 +56,6 @@ Practicing LeetCode Problems
 ## 🔸 Day 7
  `MySQL Database` <br>
 1. [Duplicate Emails](1.First_10_Days/Day_7/Duplicate_Emails.sql) <br>
+2. [Delete Duplicate Emails](1.First_10_Days/Day_7/Delete_Duplicate_Emails.sql) <br>
 
 
