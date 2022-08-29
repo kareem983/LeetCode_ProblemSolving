@@ -58,5 +58,6 @@ Practicing LeetCode Problems
 1. [Duplicate Emails](1.First_10_Days/Day_7/Duplicate_Emails.sql) <br>
 2. [Delete Duplicate Emails](1.First_10_Days/Day_7/Delete_Duplicate_Emails.sql) <br>
 3. [Employees Earning More Than Their Managers](1.First_10_Days/Day_7/Employees_Earning_More_Than_Their_Managers.sql) <br>
+4. [Customers Who Never Order](1.First_10_Days/Day_7/Customers_Who_Never_Order.sql) <br>
 
 
