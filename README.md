@@ -61,3 +61,8 @@ Practicing LeetCode Problems
 4. [Customers Who Never Order](1.First_10_Days/Day_7/Customers_Who_Never_Order.sql) <br>
 5. [Tree Node](1.First_10_Days/Day_7/Tree_Node.sql) <br>
 
+## 🔸 Day 8
+ `MySQL Database` <br>
+1. [Big Countries](1.First_10_Days/Day_8/Big_Countries.sql) <br>
+
+
