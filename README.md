@@ -65,5 +65,5 @@ Practicing LeetCode Problems
  `MySQL Database` <br>
 1. [Big Countries](1.First_10_Days/Day_8/Big_Countries.sql) <br>
 2. [Customer Placing the Largest Number of Orders](1.First_10_Days/Day_8/Customer_Placing_the_Largest_Number_of_Orders.sql) <br>
-
+3. [Swap Salary](1.First_10_Days/Day_8/Swap_Salary.sql) <br>
 
