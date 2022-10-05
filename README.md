@@ -62,9 +62,10 @@ Practicing LeetCode Problems
 5. [Tree Node](1.First_10_Days/Day_7/Tree_Node.sql) <br>
 
 ## 🔸 Day 8
- `MySQL Database` <br>
+ `MySQL Database` `Linked List` `Tow Pointers`<br>
 1. [Big Countries](1.First_10_Days/Day_8/Big_Countries.sql) <br>
 2. [Customer Placing the Largest Number of Orders](1.First_10_Days/Day_8/Customer_Placing_the_Largest_Number_of_Orders.sql) <br>
 3. [Swap Salary](1.First_10_Days/Day_8/Swap_Salary.sql) <br>
 4. [Sales Person](1.First_10_Days/Day_8/Sales_Person.sql) <br>
+5. [Remove Linked List Elements](1.First_10_Days/Day_8/Remove_Linked_List_Elements.cpp) <br>
 
