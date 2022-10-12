@@ -76,4 +76,4 @@ Practicing LeetCode Problems
 2. [Linked List Cycle II](1.First_10_Days/Day_9/Linked_List_Cycle_II.cpp) <br>
 3. [Valid Palindrome](1.First_10_Days/Day_9/Valid_Palindrome.cpp) <br>
 4. [Palindrome Linked List](1.First_10_Days/Day_9/Palindrome_Linked_List.cpp) <br>
-
+5. [Delete Node in a Linked List](1.First_10_Days/Day_9/Delete_Node_in_a_Linked_List.cpp) <br>
