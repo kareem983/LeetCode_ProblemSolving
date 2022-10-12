@@ -70,6 +70,7 @@ Practicing LeetCode Problems
 5. [Remove Linked List Elements](1.First_10_Days/Day_8/Remove_Linked_List_Elements.cpp) <br>
 
 ## 🔸 Day 9
- `Linked List` `Tow Pointers` `slow & fast Pointers` <br>
+ `Linked List` `Tow Pointers` `Hash Table` `slow & fast Pointers` <br>
 1. [Linked List Cycle](1.First_10_Days/Day_9/Linked_List_Cycle.cpp) <br>
+2. [Linked List Cycle II](1.First_10_Days/Day_9/Linked_List_Cycle_II.cpp) <br>
 
