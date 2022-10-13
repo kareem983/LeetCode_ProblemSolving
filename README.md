@@ -77,3 +77,9 @@ Practicing LeetCode Problems
 3. [Valid Palindrome](1.First_10_Days/Day_9/Valid_Palindrome.cpp) <br>
 4. [Palindrome Linked List](1.First_10_Days/Day_9/Palindrome_Linked_List.cpp) <br>
 5. [Delete Node in a Linked List](1.First_10_Days/Day_9/Delete_Node_in_a_Linked_List.cpp) <br>
+
+## 🔸 Day 10
+ `Dynamic Programming` 
+
+1. [Unique Paths](1.First_10_Days/Day_10/Unique_Paths.cpp) <br>
+
