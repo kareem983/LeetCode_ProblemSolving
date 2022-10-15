@@ -79,7 +79,8 @@ Practicing LeetCode Problems
 5. [Delete Node in a Linked List](1.First_10_Days/Day_9/Delete_Node_in_a_Linked_List.cpp) <br>
 
 ## 🔸 Day 10
- `Dynamic Programming` 
+ `Dynamic Programming` `Strings` 
 
 1. [Unique Paths](1.First_10_Days/Day_10/Unique_Paths.cpp) <br>
+2. [Valid Anagram](1.First_10_Days/Day_10/Valid_Anagram.cpp) <br>
 
