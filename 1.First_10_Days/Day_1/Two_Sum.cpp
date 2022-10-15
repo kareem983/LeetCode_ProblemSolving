@@ -4,6 +4,33 @@ Problem Link: https://leetcode.com/problems/two-sum/
 */
 
 
+/************************* Using Hash Table **************************/
+
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        unordered_map<int,int>umap;
+        vector <int> ans;
+        
+        for(int i=0;i<nums.size();i++){
+            if(umap.find(target-nums[i])!=umap.end()){ // Found
+                ans.push_back(i);
+                ans.push_back(umap[target-nums[i]]);
+                return ans;
+            }
+            else
+                umap[nums[i]]=i;
+        }
+
+        return ans;
+    }
+};
+
+
+
+
+/************************* Using Two Pointers **************************/
+
 class Solution {
 public:
 int val1 = 0, val2 = 0;
