@@ -83,4 +83,5 @@ Practicing LeetCode Problems
 
 1. [Unique Paths](1.First_10_Days/Day_10/Unique_Paths.cpp) <br>
 2. [Valid Anagram](1.First_10_Days/Day_10/Valid_Anagram.cpp) <br>
+3. [String Compression](1.First_10_Days/Day_10/String_Compression.cpp) <br>
 
