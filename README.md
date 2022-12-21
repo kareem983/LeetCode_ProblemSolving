@@ -89,4 +89,4 @@
 
 ## 🔸 Day 11
  `Array`
-1. [Monotonic Array](2.Second_10_Days/Day_1/Monotonic_Array.cpp) <br>
+1. [Monotonic Array](2.Second_10_Days/Day_11/Monotonic_Array.cpp) <br>
