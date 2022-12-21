@@ -87,3 +87,6 @@
 4. [Next Greater Element I](1.First_10_Days/Day_10/Next_Greater_Element_I.cpp) <br>
 5. [Palindromic Substrings](1.First_10_Days/Day_10/Palindromic_Substrings.cpp) <br>
 
+## 🔸 Day 11
+ `Array`
+1. [Monotonic Array](2.Second_10_Days/Day_1/Monotonic_Array.cpp) <br>
