@@ -79,10 +79,11 @@ Practicing LeetCode Problems
 5. [Delete Node in a Linked List](1.First_10_Days/Day_9/Delete_Node_in_a_Linked_List.cpp) <br>
 
 ## 🔸 Day 10
- `Dynamic Programming` `Strings` `Hash Table`
+ `Dynamic Programming` `Strings` `Hash Table` `Two Pointers`
 
 1. [Unique Paths](1.First_10_Days/Day_10/Unique_Paths.cpp) <br>
 2. [Valid Anagram](1.First_10_Days/Day_10/Valid_Anagram.cpp) <br>
 3. [String Compression](1.First_10_Days/Day_10/String_Compression.cpp) <br>
 4. [Next Greater Element I](1.First_10_Days/Day_10/Next_Greater_Element_I.cpp) <br>
+5. [Palindromic Substrings](1.First_10_Days/Day_10/Palindromic_Substrings.cpp) <br>
 
