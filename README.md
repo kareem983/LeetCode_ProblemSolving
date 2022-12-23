@@ -88,9 +88,9 @@
 5. [Palindromic Substrings](1.First_10_Days/Day_10/Palindromic_Substrings.cpp) <br>
 
 ## 🔸 Day 11
- `Array` `STLs` `Binary Search` `Math`
+ `String` `Array` `STLs` `Binary Search` `Math`
 1. [Find First and Last Position of Element in Sorted Array](2.Second_10_Days/Day_11/Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp) <br>
 2. [Monotonic Array](2.Second_10_Days/Day_11/Monotonic_Array.cpp) <br>
 3. [Excel Sheet Column Number](2.Second_10_Days/Day_11/Excel_Sheet_Column_Number.cpp) <br>
-
+4. [Excel Sheet Column Title](2.Second_10_Days/Day_11/Excel_Sheet_Column_Title.cpp) <br>
 
