@@ -95,3 +95,7 @@
 4. [Excel Sheet Column Title](2.Second_10_Days/Day_11/Excel_Sheet_Column_Title.cpp) <br>
 5. [Sort Colors](2.Second_10_Days/Day_11/Sort_Colors.cpp) <br>
 
+## 🔸 Day 12
+ `Linked List`
+1. [Add Two Numbers](2.Second_10_Days/Day_12/Add_Two_Numbers.cpp) <br>
+
