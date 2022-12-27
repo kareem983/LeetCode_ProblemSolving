@@ -4,9 +4,40 @@ Problem Link: https://leetcode.com/problems/add-two-numbers/
 */
 
 
+/************************* O(N) & Less Memory ********************************/
+
 class Solution {
 public:
+    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+        ListNode result(0);
+        ListNode* curr = &result;
+        int carry = 0;
 
+        while (l1 || l2 || carry) {
+            if (l1 != nullptr) {
+                carry += l1->val;
+                l1 = l1->next;
+            }
+            if (l2 != nullptr) {
+                carry += l2->val;
+                l2 = l2->next;
+            }
+            curr->next = new ListNode(carry % 10);
+            carry /= 10;
+            curr = curr->next;
+            }
+
+        return result.next;
+    }
+};
+
+
+
+
+/************************* O(N) & Extra Memory ********************************/
+
+class Solution {
+public:
     vector<int> setEqualVectorsToSize(vector<int> v, int size){
         while(size--)
             v.push_back(0);
