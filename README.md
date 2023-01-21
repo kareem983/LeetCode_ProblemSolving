@@ -103,3 +103,11 @@
 4. [Delete Columns to Make Sorted](2.Second_10_Days/Day_12/Delete_Columns_to_Make_Sorted.cpp) <br>
 5. [Minimum Rounds to Complete All Tasks](2.Second_10_Days/Day_12/Minimum_Rounds_to_Complete_All_Tasks.cpp) <br>
 
+## 🔸 Day 13
+ `Sorting` `Array` `Math` `Binary Tree`
+1. [Minimum Number of Arrows to Burst Balloons](2.Second_10_Days/Day_13/Minimum_Number_of_Arrows_to_Burst_Balloons.cpp) <br>
+2. [Maximum Ice Cream Bars](2.Second_10_Days/Day_13/Maximum_Ice_Cream_Bars.cpp) <br>
+3. [Gas Station](2.Second_10_Days/Day_13/Gas_Station.cpp) <br>
+4. [Max Points on a Line](2.Second_10_Days/Day_13/Max_Points_on_a_Line.cpp) <br>
+5. [Binary Tree Preorder Traversal](2.Second_10_Days/Day_13/Binary_Tree_Preorder_Traversal.cpp) <br>
+
