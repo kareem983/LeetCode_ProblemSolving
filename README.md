@@ -96,6 +96,10 @@
 5. [Sort Colors](2.Second_10_Days/Day_11/Sort_Colors.cpp) <br>
 
 ## 🔸 Day 12
- `Linked List`
+ `Linked List` `String` `Hash Map`
 1. [Add Two Numbers](2.Second_10_Days/Day_12/Add_Two_Numbers.cpp) <br>
+2. [Detect Capital](2.Second_10_Days/Day_12/Detect_Capital.cpp) <br>
+3. [Word Pattern](2.Second_10_Days/Day_12/Word_Pattern.cpp) <br>
+4. [Delete Columns to Make Sorted](2.Second_10_Days/Day_12/Delete_Columns_to_Make_Sorted.cpp) <br>
+5. [Minimum Rounds to Complete All Tasks](2.Second_10_Days/Day_12/Minimum_Rounds_to_Complete_All_Tasks.cpp) <br>
 
