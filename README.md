@@ -111,3 +111,7 @@
 4. [Max Points on a Line](2.Second_10_Days/Day_13/Max_Points_on_a_Line.cpp) <br>
 5. [Binary Tree Preorder Traversal](2.Second_10_Days/Day_13/Binary_Tree_Preorder_Traversal.cpp) <br>
 
+## 🔸 Day 14
+ `Sorting`
+1. [Median of Two Sorted Arrays](2.Second_10_Days/Day_13/Median_of_Two_Sorted_Arrays.cpp) <br>
+
