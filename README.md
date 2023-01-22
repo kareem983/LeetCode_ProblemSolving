@@ -113,5 +113,5 @@
 
 ## 🔸 Day 14
  `Sorting`
-1. [Median of Two Sorted Arrays](2.Second_10_Days/Day_13/Median_of_Two_Sorted_Arrays.cpp) <br>
+1. [Median of Two Sorted Arrays](2.Second_10_Days/Day_14/Median_of_Two_Sorted_Arrays.cpp) <br>
 
