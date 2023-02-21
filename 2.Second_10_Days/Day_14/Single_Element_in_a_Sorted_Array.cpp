@@ -4,6 +4,7 @@ Problem Link: https://leetcode.com/problems/single-element-in-a-sorted-array/
 */
 
 
+/*********************** Time O(N), Space O(1) **********************/
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
