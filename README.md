@@ -112,8 +112,9 @@
 5. [Binary Tree Preorder Traversal](2.Second_10_Days/Day_13/Binary_Tree_Preorder_Traversal.cpp) <br>
 
 ## 🔸 Day 14
- `Sorting` `Linked List` `Binary Search`
+ `Sorting` `Linked List` `Binary Search` `Math`
 1. [Median of Two Sorted Arrays](2.Second_10_Days/Day_14/Median_of_Two_Sorted_Arrays.cpp) <br>
 2. [Intersection of Two Linked Lists](2.Second_10_Days/Day_14/Intersection_of_Two_Linked_Lists.cpp) <br>
 3. [Single Element in a Sorted Array](2.Second_10_Days/Day_14/Single_Element_in_a_Sorted_Array.cpp) <br>
+4. [Add to Array-Form of Integer](2.Second_10_Days/Day_14/Add_to_Array_Form_of_Integer.cpp) <br>
 
