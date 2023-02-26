@@ -3,7 +3,7 @@ Problem Title: Top K Frequent Elements
 Problem Link: https://leetcode.com/problems/top-k-frequent-elements/
 */
 
-/************************* Time O(NLog((N)), Space O(N) *************************/
+/************************* Time O(N), Space O(N) *************************/
 class Solution {
 public:
     static bool cmp(pair<int, int>& a,
