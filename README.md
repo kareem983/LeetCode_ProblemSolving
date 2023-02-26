@@ -121,4 +121,4 @@
 
 ## 🔸 Day 15
  `Sorting` `Map`
-1. [Median of Two Sorted Arrays](2.Second_10_Days/Day_15/Top_K_Frequent_Elements.cpp) <br>
+1. [Top K Frequent Elements](2.Second_10_Days/Day_15/Top_K_Frequent_Elements.cpp) <br>
