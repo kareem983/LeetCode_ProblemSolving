@@ -123,4 +123,5 @@
  `Sorting` `Map` `Binary Search`
 1. [Top K Frequent Elements](2.Second_10_Days/Day_15/Top_K_Frequent_Elements.cpp) <br>
 2. [Successful Pairs of Spells and Potions](2.Second_10_Days/Day_15/Successful_Pairs_of_Spells_and_Potions.cpp) <br>
+3. [Boats to Save People](2.Second_10_Days/Day_15/Boats_to_Save_People.cpp) <br>
 
