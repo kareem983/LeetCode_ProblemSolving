@@ -125,4 +125,5 @@
 2. [Successful Pairs of Spells and Potions](2.Second_10_Days/Day_15/Successful_Pairs_of_Spells_and_Potions.cpp) <br>
 3. [Boats to Save People](2.Second_10_Days/Day_15/Boats_to_Save_People.cpp) <br>
 4. [Merge Sorted Array](2.Second_10_Days/Day_15/Merge_Sorted_Array.cpp) <br>
+5. [Optimal Partition of String](2.Second_10_Days/Day_15/Optimal_Partition_of_String.cpp) <br>
 
