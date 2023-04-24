@@ -120,8 +120,9 @@
 5. [Count Odd Numbers in an Interval Range](2.Second_10_Days/Day_14/Count_Odd_Numbers_in_an_Interval_Range.cpp) <br>
 
 ## 🔸 Day 15
- `Sorting` `Map` `Binary Search`
+ `Sorting` `Map` `Binary Search` `Two Pointers` 
 1. [Top K Frequent Elements](2.Second_10_Days/Day_15/Top_K_Frequent_Elements.cpp) <br>
 2. [Successful Pairs of Spells and Potions](2.Second_10_Days/Day_15/Successful_Pairs_of_Spells_and_Potions.cpp) <br>
 3. [Boats to Save People](2.Second_10_Days/Day_15/Boats_to_Save_People.cpp) <br>
+4. [Merge Sorted Array](2.Second_10_Days/Day_15/Merge_Sorted_Array.cpp) <br>
 
