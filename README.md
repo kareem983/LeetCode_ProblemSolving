@@ -128,5 +128,6 @@
 5. [Optimal Partition of String](2.Second_10_Days/Day_15/Optimal_Partition_of_String.cpp) <br>
 
 ## 🔸 Day 16
- `Strings` 
+ `Strings` `STLs`
 1. [Merge Strings Alternately](2.Second_10_Days/Day_16/Merge_Strings_Alternately.cpp) <br>
+2. [Kids With the Greatest Number of Candies](2.Second_10_Days/Day_16/Kids_With_the_Greatest_Number_of_Candies.cpp) <br>
