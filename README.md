@@ -127,3 +127,6 @@
 4. [Merge Sorted Array](2.Second_10_Days/Day_15/Merge_Sorted_Array.cpp) <br>
 5. [Optimal Partition of String](2.Second_10_Days/Day_15/Optimal_Partition_of_String.cpp) <br>
 
+## 🔸 Day 16
+ `Strings` 
+1. [Merge Strings Alternately](2.Second_10_Days/Day_16/Merge_Strings_Alternately.cpp) <br>
