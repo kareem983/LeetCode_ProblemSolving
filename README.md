@@ -71,7 +71,6 @@
 
 ## 🔸 Day 9
  `Linked List` `Strings` `Stack` `Tow Pointers` `Hash Table` `slow & fast Pointers` <br>
-
 1. [Linked List Cycle](1.First_10_Days/Day_9/Linked_List_Cycle.cpp) <br>
 2. [Linked List Cycle II](1.First_10_Days/Day_9/Linked_List_Cycle_II.cpp) <br>
 3. [Valid Palindrome](1.First_10_Days/Day_9/Valid_Palindrome.cpp) <br>
@@ -80,7 +79,6 @@
 
 ## 🔸 Day 10
  `Dynamic Programming` `Strings` `Hash Table` `Two Pointers`
-
 1. [Unique Paths](1.First_10_Days/Day_10/Unique_Paths.cpp) <br>
 2. [Valid Anagram](1.First_10_Days/Day_10/Valid_Anagram.cpp) <br>
 3. [String Compression](1.First_10_Days/Day_10/String_Compression.cpp) <br>
@@ -128,9 +126,10 @@
 5. [Optimal Partition of String](2.Second_10_Days/Day_15/Optimal_Partition_of_String.cpp) <br>
 
 ## 🔸 Day 16
- `Strings` `STLs` `Math` `Two Pointers`
+ `Strings` `STLs` `Math` `Two Pointers` `Hash Table`
 1. [Merge Strings Alternately](2.Second_10_Days/Day_16/Merge_Strings_Alternately.cpp) <br>
 2. [Kids With the Greatest Number of Candies](2.Second_10_Days/Day_16/Kids_With_the_Greatest_Number_of_Candies.cpp) <br>
 3. [Add Digits](2.Second_10_Days/Day_16/Add_Digits.cpp) <br>
 4. [Two Sum II - Input Array Is Sorted](2.Second_10_Days/Day_16/Two_Sum_II_Input_Array_Is_Sorted.cpp) <br>
+5. [Intersection of Two Arrays](2.Second_10_Days/Day_16/Intersection_of_Two_Arrays.cpp) <br>
 
