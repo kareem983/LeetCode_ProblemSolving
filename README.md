@@ -1,5 +1,5 @@
 # Problem Solving
-> Practicing Problem Solving on LeetCode
+> Practicing Solving 100 Problem with different topics on LeetCode
 
 ## 🔸 Day 1
  `Math` `Strings` `Data Structures` <br>
