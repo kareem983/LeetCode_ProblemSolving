@@ -137,7 +137,7 @@
  `Binary Search Tree(BST)` `Greedy` `Stls` `2D Array` `String`
 1. [Construct String from Binary Tree](2.Second_10_Days/Day_17/Construct_String_from_Binary_Tree.cpp) <br>
 2. [Binary Tree Inorder Traversal](2.Second_10_Days/Day_17/Binary_Tree_Inorder_Traversal.cpp) <br>
-3. [Element Appearing More Than 25% In Sorted Array](2.Second_10_Days/Day_17/Element_Appearing_More_Than_25%_In_Sorted_Array.cpp) <br>
+3. [Element Appearing More Than 25% In Sorted Array](2.Second_10_Days/Day_17/Element_Appearing_More_Than_25_Percent_In_Sorted_Array.cpp) <br>
 4. [Maximum Product of Two Elements in an Array](2.Second_10_Days/Day_17/Maximum_Product_of_Two_Elements_in_an_Array.cpp) <br>
 5. [Special Positions in a Binary Matrix](2.Second_10_Days/Day_17/Special_Positions_in_a_Binary_Matrix.cpp) <br>
 
