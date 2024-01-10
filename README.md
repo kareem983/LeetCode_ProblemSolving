@@ -134,12 +134,12 @@
 5. [Intersection of Two Arrays](2.Second_10_Days/Day_16/Intersection_of_Two_Arrays.cpp) <br>
 
 ## 🔸 Day 17
- `LinkedList` `Binary Search Tree(BST)` `Dynamic Programming(DP)`
-1. [Arithmetic Slices II Subsequence](2.Second_10_Days/Day_17/Arithmetic_Slices_II_Subsequence.cpp) <br>
-2. [Maximum Profit in Job Scheduling](2.Second_10_Days/Day_17/Maximum_Profit_in_Job_Scheduling.cpp) <br>
-3. [Leaf Similar Trees](2.Second_10_Days/Day_17/Leaf_Similar_Trees.cpp) <br>
-4. [Odd Even Linked List](2.Second_10_Days/Day_17/Odd_Even_Linked_List.cpp) <br>
-5. [Range Sum of BST](2.Second_10_Days/Day_17/Range_Sum_of_BST.cpp) <br>
+ `Binary Search Tree(BST)` `Greedy` `Stls` `2D Array` `String`
+1. [Construct String from Binary Tree](2.Second_10_Days/Day_17/Construct_String_from_Binary_Tree.cpp) <br>
+2. [Binary Tree Inorder Traversal](2.Second_10_Days/Day_17/Binary_Tree_Inorder_Traversal.cpp) <br>
+3. [Element Appearing More Than 25% In Sorted Array](2.Second_10_Days/Day_17/Element_Appearing_More_Than_25%_In_Sorted_Array.cpp) <br>
+4. [Maximum Product of Two Elements in an Array](2.Second_10_Days/Day_17/Maximum_Product_of_Two_Elements_in_an_Array.cpp) <br>
+5. [Special Positions in a Binary Matrix](2.Second_10_Days/Day_17/Special_Positions_in_a_Binary_Matrix.cpp) <br>
 
 ## 🔸 Day 18
  `Stls` `Hash Table` `Map` `String`
@@ -149,7 +149,6 @@
 4. [Number of Laser Beams in a Bank](2.Second_10_Days/Day_18/Number_of_Laser_Beams_in_a_Bank.cpp) <br>
 5. [Assign Cookies](2.Second_10_Days/Day_18/Assign_Cookies.cpp) <br>
 
-
 ## 🔸 Day 19
  `Greedy` `Stls` `Hash Table` `Map` `String`
 1. [Difference Between Ones and Zeros in Row and Column](2.Second_10_Days/Day_19/Difference_Between_Ones_and_Zeros_in_Row_and_Column.cpp) <br>
@@ -158,5 +157,11 @@
 4. [Destination City](2.Second_10_Days/Day_19/Destination_City.cpp) <br>
 5. [Valid Anagram](2.Second_10_Days/Day_19/Valid_Anagram.cpp) <br>
 
-
+## 🔸 Day 20
+ `LinkedList` `Binary Search Tree(BST)` `Dynamic Programming(DP)`
+1. [Arithmetic Slices II Subsequence](2.Second_10_Days/Day_20/Arithmetic_Slices_II_Subsequence.cpp) <br>
+2. [Maximum Profit in Job Scheduling](2.Second_10_Days/Day_20/Maximum_Profit_in_Job_Scheduling.cpp) <br>
+3. [Leaf Similar Trees](2.Second_10_Days/Day_20/Leaf_Similar_Trees.cpp) <br>
+4. [Odd Even Linked List](2.Second_10_Days/Day_20/Odd_Even_Linked_List.cpp) <br>
+5. [Range Sum of BST](2.Second_10_Days/Day_20/Range_Sum_of_BST.cpp) <br>
 
