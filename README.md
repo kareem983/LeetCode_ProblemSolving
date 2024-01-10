@@ -148,3 +148,15 @@
 3. [Determine if Two Strings Are Close](2.Second_10_Days/Day_18/Determine_if_Two_Strings_Are_Close.cpp) <br>
 4. [Number of Laser Beams in a Bank](2.Second_10_Days/Day_18/Number_of_Laser_Beams_in_a_Bank.cpp) <br>
 5. [Assign Cookies](2.Second_10_Days/Day_18/Assign_Cookies.cpp) <br>
+
+
+## 🔸 Day 19
+ `Greedy` `Stls` `Hash Table` `Map` `String`
+1. [Difference Between Ones and Zeros in Row and Column](2.Second_10_Days/Day_19/Difference_Between_Ones_and_Zeros_in_Row_and_Column.cpp) <br>
+2. [Redistribute Characters to Make All Strings Equal](2.Second_10_Days/Day_19/Redistribute_Characters_to_Make_All_Strings_Equal.cpp) <br>
+3. [Minimum Time to Make Rope Colorful](2.Second_10_Days/Day_19/Minimum_Time_to_Make_Rope_ColorfulCookies.cpp) <br>
+4. [Destination City](2.Second_10_Days/Day_19/Destination_City.cpp) <br>
+5. [Valid Anagram](2.Second_10_Days/Day_19/Valid_Anagram.cpp) <br>
+
+
+
