@@ -133,3 +133,10 @@
 4. [Two Sum II - Input Array Is Sorted](2.Second_10_Days/Day_16/Two_Sum_II_Input_Array_Is_Sorted.cpp) <br>
 5. [Intersection of Two Arrays](2.Second_10_Days/Day_16/Intersection_of_Two_Arrays.cpp) <br>
 
+## 🔸 Day 17
+ `LinkedList` `Binary Search Tree(BST)` `Dynamic Programming(DP)`
+1. [Arithmetic Slices II Subsequence](2.Second_10_Days/Day_17/Arithmetic_Slices_II_Subsequence.cpp) <br>
+2. [Maximum Profit in Job Scheduling](2.Second_10_Days/Day_17/Maximum_Profit_in_Job_Scheduling.cpp) <br>
+3. [Leaf Similar Trees](2.Second_10_Days/Day_17/Leaf_Similar_Trees.cpp) <br>
+4. [Odd Even Linked List](2.Second_10_Days/Day_17/Odd_Even_Linked_List.cpp) <br>
+5. [Range Sum of BST](2.Second_10_Days/Day_17/Range_Sum_of_BST.cpp) <br>
