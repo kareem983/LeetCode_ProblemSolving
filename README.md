@@ -1,6 +1,25 @@
 # Problem Solving
 > Practicing Solving 100 Problem with different topics on LeetCode
 
+### Achevements
+
+<details>
+  <summary>Badges</summary>
+<p>
+<img width="271" alt="badges" src="https://github.com/kareem983/LeetCode_ProblemSolving/assets/52586356/66c6d867-1e17-4a11-89f6-0231abc41af5">
+
+</p>
+</details>
+
+
+<details>
+  <summary>50+ Days & Top 6.9% LeetCoders Badge</summary>
+<p>
+ <img width="271" alt="badges" src="https://github.com/kareem983/LeetCode_ProblemSolving/assets/52586356/fdbdf3e5-1823-4f16-b979-264c4ebf62b1">
+</p>
+</details>
+
+
 ## 🔸 Day 1
  `Math` `Strings` `Data Structures` <br>
 1. [Palindrom Number](1.First_10_Days/Day_1/Palindrom_Number.cpp) <br>
