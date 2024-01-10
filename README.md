@@ -140,3 +140,11 @@
 3. [Leaf Similar Trees](2.Second_10_Days/Day_17/Leaf_Similar_Trees.cpp) <br>
 4. [Odd Even Linked List](2.Second_10_Days/Day_17/Odd_Even_Linked_List.cpp) <br>
 5. [Range Sum of BST](2.Second_10_Days/Day_17/Range_Sum_of_BST.cpp) <br>
+
+## 🔸 Day 18
+ `Stls` `Hash Table` `Map` `String`
+1. [Minimum Number of Operations to Make Array Empty](2.Second_10_Days/Day_18/Minimum_Number_of_Operations_to_Make_Array_Empty.cpp) <br>
+2. [Convert an Array Into a 2D Array With Conditions](2.Second_10_Days/Day_18/Convert_an_Array_Into_a_2D_Array_With_Conditions.cpp) <br>
+3. [Determine if Two Strings Are Close](2.Second_10_Days/Day_18/Determine_if_Two_Strings_Are_Close.cpp) <br>
+4. [Number of Laser Beams in a Bank](2.Second_10_Days/Day_18/Number_of_Laser_Beams_in_a_Bank.cpp) <br>
+5. [Assign Cookies](2.Second_10_Days/Day_18/Assign_Cookies.cpp) <br>
